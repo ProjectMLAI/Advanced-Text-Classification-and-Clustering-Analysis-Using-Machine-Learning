@@ -3,15 +3,20 @@
 This repository details a sophisticated project focused on text classification and clustering using a diverse dataset of Reddit posts, covering topics ranging from gaming to beverage reviews. The project highlights advanced techniques in natural language processing and machine learning to extract meaningful insights from text data.
 
 # Key Features and Methodology
-# # Data Preprocessing: Implemented comprehensive preprocessing steps including tokenization, lemmatization, and removal of special characters to refine the dataset for analysis.
+# # Data Preprocessingc
+Implemented comprehensive preprocessing steps including tokenization, lemmatization, and removal of special characters to refine the dataset for analysis.
 
-# # Unique Label Identification: Successfully identified nine unique labels within the dataset, such as “soda”, “tea”, “xbox”, etc., enabling detailed topic-specific analysis.
+# # Unique Label Identificationc
+Successfully identified nine unique labels within the dataset, such as “soda”, “tea”, “xbox”, etc., enabling detailed topic-specific analysis.
 
-# # Sentiment Analysis: Executed sentiment analysis on various topics, particularly beverage preferences, to understand public opinion trends and dynamics.
+# # Sentiment Analysisc
+Executed sentiment analysis on various topics, particularly beverage preferences, to understand public opinion trends and dynamics.
 
-# # Clustering Implementation: Applied K-means clustering algorithm on Tf-IDF vectors, categorizing text data into coherent groups for further analysis.
+# # Clustering Implementationc
+Applied K-means clustering algorithm on Tf-IDF vectors, categorizing text data into coherent groups for further analysis.
 
-# # Classifier Development: Developed and trained multiple classifiers, including logistic regression and SVM, for effective categorization of text data.
+# # Classifier Development 
+Developed and trained multiple classifiers, including logistic regression and SVM, for effective categorization of text data.
 
 # BERT Model Utilization
 
